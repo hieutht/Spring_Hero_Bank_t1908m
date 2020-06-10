@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring_Hero_Bank_t1908m", "Spring_Hero_Bank_t1908m\Spring_Hero_Bank_t1908m.csproj", "{F655EFEE-A8F0-429A-BBC8-FD93948A8875}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F655EFEE-A8F0-429A-BBC8-FD93948A8875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F655EFEE-A8F0-429A-BBC8-FD93948A8875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F655EFEE-A8F0-429A-BBC8-FD93948A8875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F655EFEE-A8F0-429A-BBC8-FD93948A8875}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
